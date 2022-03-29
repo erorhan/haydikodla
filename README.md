@@ -33,3 +33,5 @@ Ve hiçkimsenin "yapamazsın" demesine izin vermeyin !
 İster genç bir erkek yada genç bir kız olun , ister şehirde ister kırsalda yaşayın , bilgisayarlar geleceğin çok büyük bir parçası olacak.
 Ve eğer iş yapmaya ve sıkı çalışmaya niyetliyseniz , geleceği şekillendirecek olanlar da sizlersiniz.
 Herkese Teşekkürler !
+<br/><br/>
+<img src="https://raw.githubusercontent.com/erorhan/haydikodla/main/HK_REK.png"><br/>
